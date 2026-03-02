@@ -30,7 +30,7 @@ Consolidação dos resultados e foco na apresentação final para stakeholders.
 
 ## 📁 Como Utilizar
 1. Clone o repositório.
-2. Certifique-se de ter o arquivo `dataset1.csv` no mesmo diretório (base de dados utilizada).
+2. Certifique-se de ter os arquivos `dataset1.csv` & `dataset2.csv` no mesmo diretório (base de dados utilizada).
 3. Instale as dependências necessárias:
    ```bash
    pip install pandas numpy matplotlib seaborn plotly colorlover watermark
